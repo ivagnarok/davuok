@@ -1,0 +1,50 @@
+body{
+    background-image: url("../img/bg.jpg");
+}
+
+.text1{
+    color: silver;
+    font-style: italic;
+}
+
+.text1{
+    background-image:  url("../img/rectangulo.jpg");
+    height: 20rem;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 5rem 20rem 0 20rem;
+    
+}
+
+.fganga{
+    background-image:  url("../img/fganga.png");
+    color:aliceblue;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-position: center;
+    background-size:contain;
+    height: 7rem;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+}
+.flash{
+    background-image:  url("../img/flash.gif");
+    color:aliceblue;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-position: center;
+    background-size:contain;
+    height: 7rem;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+}
+
+
+.disclaimer{
+    display:none;
+}
